@@ -1,0 +1,6 @@
+{
+  "token": "PUT_BOT_TOKEN_IN_RENDER_ENV_BOT_TOKEN",
+  "shop_url": "https://YOUR-SERVICE.onrender.com",
+  "bot_username": "YourBotUsername",
+  "welcome_text": "🛍️ <b>SJ Shop</b>\n\nTap below to open the shop inside Telegram."
+}
